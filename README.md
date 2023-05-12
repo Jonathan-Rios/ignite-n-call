@@ -60,7 +60,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [ReactQuery](https://tanstack.com/query/v3/)
  
 
-## 🚀 Link da aplicação:
+## 🚀 Link da aplicação: 
+
+Só acessar \o
+
+https://ignite-n-call-jrs.vercel.app/
  
  
  
@@ -148,16 +152,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) pa
   npx prisma db push
 ```   
 <br />
-
- <h3>Deploy com Vercel </h3>
-
-```javascript
-
- //Instalando vercel
-  npm i -g vercel
-
-```   
-<br />
+ 
 
 ---
 <br />
